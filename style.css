@@ -1,0 +1,68 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.backgroundBlé{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("images/HERO.jpg");
+    background-size: cover;
+
+}
+.header{
+    background-color: rgba(225, 224, 224, 0.32);
+}
+.hauteur{
+    height: 80vh;
+}
+.fondBleu{
+    background-image: url("images/fondservices.png");
+    background-size: cover;
+    width: 100vw;
+}
+
+.portfolioImage1,.portfolioImage2,.portfolioImage3,.portfolioImage4,.portfolioImage5,.portfolioImage6,.portfolioImage7,.portfolioImage8{
+    height: 220px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.portfolioImage1{
+    background-image: url("images/portfolio/1.png");
+}
+.portfolioImage2{
+    background-image: url("images/portfolio/2.png");
+}
+.portfolioImage3{
+    background-image: url("images/portfolio/3.png");
+}
+.portfolioImage4{
+    background-image: url("images/portfolio/4.png");
+}
+.portfolioImage5{
+    background-image: url("images/portfolio/5.png");
+}
+.portfolioImage6{
+    background-image: url("images/portfolio/6.png");
+}
+.portfolioImage7{
+    background-image: url("images/portfolio/7.png");
+}
+.portfolioImage8{
+    background-image: url("images/portfolio/8.png");
+}
+
+.fondJohn{
+    background-color: #8CB3D7;
+}
+.formColor {
+    background-color: #8CB3D7;
+}
+.messageBouton{
+    border-radius: 0;
+    padding-left: 120px;
+    padding-right: 120px;
+}
